@@ -1,6 +1,6 @@
 {
-  "name": "Dev'Coffee",
-  "short_name": "DevCoffee",
+  "name": "The First Pwa App",
+  "short_name": "Pwa App",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
